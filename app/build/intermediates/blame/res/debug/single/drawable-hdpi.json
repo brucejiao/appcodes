@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_xlistview_arrow.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_xlistview_arrow.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_fullscreen_black_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_fullscreen_black_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zxing_scan_fail.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\zxing_scan_fail.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_expand_more_black_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_expand_more_black_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_applications_black_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_applications_black_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chevron_right_grey600_36dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_chevron_right_grey600_36dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pageview_black_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_pageview_black_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zxing_scan_history_pressed.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\zxing_scan_history_pressed.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zxing_scan_corner_top_left.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\zxing_scan_corner_top_left.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zxing_scan_flashlight_normal.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\zxing_scan_flashlight_normal.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_grade_black_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_grade_black_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chevron_right_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_chevron_right_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_search_black_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_search_black_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\del_icon_normal.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\del_icon_normal.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_more_horiz_black_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_more_horiz_black_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_imageindicator_arrow_left.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_imageindicator_arrow_left.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_imageindicator_image_indicator_focus.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_imageindicator_image_indicator_focus.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_progress_loading.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_progress_loading.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zxing_scan_corner_bottom_right.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\zxing_scan_corner_bottom_right.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_info_outline_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_info_outline_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zxing_scan_corner_top_right.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\zxing_scan_corner_top_right.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_black_36dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_black_36dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zxing_scan_laser.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\zxing_scan_laser.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_share_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_share_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\avatar_default.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\avatar_default.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_swipeback_shadow_left.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_swipeback_shadow_left.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_progress_bar_progress.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_progress_bar_progress.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_search_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_search_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\up_left.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\up_left.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_room_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_room_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_more_vert_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_more_vert_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_applications_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_applications_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fav_go_pressed.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\fav_go_pressed.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_switch_on_bg.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_switch_on_bg.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_spinner_droplist_focus.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_spinner_droplist_focus.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_black_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_black_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fav_go_nomal.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\fav_go_nomal.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_retrun.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_retrun.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zxing_scan_history_normal.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\zxing_scan_history_normal.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_spinner_droplist.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_spinner_droplist.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_arrow_back_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_back_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_more_vert_black_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_more_vert_black_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zxing_scan_flashlight_pressed.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\zxing_scan_flashlight_pressed.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_refresh_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_refresh_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_n.9.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\list_n.9.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_input_antenna_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_input_antenna_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_favorite_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_favorite_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_switch_thumb.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_switch_thumb.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_list_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_list_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zxing_scan_corner_bottom_left.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\zxing_scan_corner_bottom_left.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_home_black_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_home_black_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zxing_scan_photo_pressed.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\zxing_scan_photo_pressed.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_done_white_36dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_done_white_36dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_imageindicator_arrow_right.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_imageindicator_arrow_right.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_linnerlayout_border.9.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_linnerlayout_border.9.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_checkbox_pressed.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_checkbox_pressed.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_pull_refresh_default_ptr_flip.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_pull_refresh_default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_imageindicator_arrow_right_focus.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_imageindicator_arrow_right_focus.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zxing_scan_photo_normal.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\zxing_scan_photo_normal.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_progress_bar_bg.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_progress_bar_bg.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_spinner_droplist_down.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_spinner_droplist_down.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_get_app_black_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_get_app_black_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_more_horiz_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_more_horiz_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_sync_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_sync_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_imageindicator_image_indicator.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_imageindicator_image_indicator.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_expand_more_grey600_36dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_expand_more_grey600_36dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_grade_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_grade_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_expand_more_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_expand_more_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_fullscreen_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_fullscreen_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_switch_off_bg.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_switch_off_bg.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_home_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_home_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_refresh_black_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_refresh_black_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_pull_refresh_indicator_arrow.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_pull_refresh_indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_arrow_back_grey600_36dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_back_grey600_36dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pageview_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_pageview_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_info_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_info_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_checkbox_normal.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_checkbox_normal.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_pull_refresh_default_ptr_rotate.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_pull_refresh_default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_arrow_back_black_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_back_black_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_chevron_right_grey600_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_chevron_right_grey600_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_favorite_outline_white_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_favorite_outline_white_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\default_icon.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\default_icon.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_p.9.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\list_p.9.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\up_right.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\up_right.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\view_imageindicator_arrow_left_focus.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\view_imageindicator_arrow_left_focus.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_sync_green_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_sync_green_48dp.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_share_black_48dp.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\ic_share_black_48dp.png"
+    }
+]

@@ -1,0 +1,64 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "26.0.0"
+
+    defaultConfig {
+//        applicationId "com.zftlive.android"
+        applicationId "android.zftlive.com"
+        minSdkVersion 7
+        targetSdkVersion 19
+
+        testApplicationId "com.zftlive.android"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:19.1.0'
+    compile files('libs/achartengine-1.1.0.jar')
+    compile files('libs/android-async-http-1.4.5.jar')
+    compile files('libs/android-sliding-menu.jar')
+    compile files('libs/android-validation-komensky0.9.3.jar')
+    compile files('libs/android_volley_manager_1.04.jar')
+    compile files('libs/asmack-jse-buddycloud-2010.12.11.jar')
+    compile files('libs/badidu-loc-sdk_4.2.jar')
+    compile files('libs/baidu-map-api_v3_0_0.jar')
+    compile files('libs/baidu-push-service-4.0.0.jar')
+    compile files('libs/guice-3.0-no_aop.jar')
+    compile files('libs/javax.inject.jar')
+    compile files('libs/jsr305-1.3.9.jar')
+    compile files('libs/ksoap2-android.jar')
+    compile files('libs/nineoldandroids-2.4.0.jar')
+    compile files('libs/ormlite-android-4.48.jar')
+    compile files('libs/ormlite-core-4.48.jar')
+    compile files('libs/roboguice-2.0.jar')
+    compile files('libs/sharesdk-core-2.3.11.jar')
+    compile files('libs/sharesdk-facebook-2.3.11.jar')
+    compile files('libs/sharesdk-qq-2.3.11.jar')
+    compile files('libs/sharesdk-qzone-2.3.11.jar')
+    compile files('libs/sharesdk-sinaweibo-2.3.11.jar')
+    compile files('libs/sharesdk-tencentweibo-2.3.11.jar')
+    compile files('libs/sharesdk-twitter-2.3.11.jar')
+    compile files('libs/sharesdk-wechat-2.3.11.jar')
+    compile files('libs/sharesdk-wechat-core-2.3.11.jar')
+    compile files('libs/sharesdk-wechat-favorite-2.3.11.jar')
+    compile files('libs/sharesdk-wechat-moments-2.3.11.jar')
+    compile files('libs/smssdk-analysis-sdk_0.0.3.jar')
+    compile files('libs/smssdk-gui.jar')
+    compile files('libs/smssdk-mframework.jar')
+    compile files('libs/smssdk-smssdk-1.0.2.jar')
+    compile files('libs/universal-image-loader-1.8.4.jar')
+    compile files('libs/xstream-1.4.7.jar')
+    compile files('libs/zxing-android-core-3.1.0.jar')
+    compile files('libs/zxing-android-integration-3.1.0.jar')
+    compile files('libs/zxing-core-3.1.0.jar')
+}

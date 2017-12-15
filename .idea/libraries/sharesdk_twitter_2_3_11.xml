@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sharesdk-twitter-2.3.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/sharesdk-twitter-2.3.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

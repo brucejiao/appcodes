@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="smssdk-mframework">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/smssdk-mframework.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ad_spinner_default_holo_light.9.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-mdpi\\ad_spinner_default_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ad_spinner_disabled_holo_light.9.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-mdpi\\ad_spinner_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ad_tab_unselected_holo.9.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-mdpi\\ad_tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ad_menu_dropdown_panel_holo_light.9.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-mdpi\\ad_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\view_pull_refresh_default_ptr_rotate.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-mdpi\\view_pull_refresh_default_ptr_rotate.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ad_spinner_pressed_holo_light.9.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-mdpi\\ad_spinner_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\view_pull_refresh_default_ptr_flip.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-mdpi\\view_pull_refresh_default_ptr_flip.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\view_pull_refresh_indicator_arrow.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-mdpi\\view_pull_refresh_indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ad_tab_selected_pressed_holo.9.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-mdpi\\ad_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ad_spinner_focused_holo_light.9.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-mdpi\\ad_spinner_focused_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ad_tab_selected_holo.9.png",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-mdpi\\ad_tab_selected_holo.9.png"
+    }
+]

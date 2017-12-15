@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_actionbar_title.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\view_actionbar_title.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_pull_refresh_header_horizontal.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\view_pull_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_db_demo_listview_item.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_db_demo_listview_item.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_db_demo.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_db_demo.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera_demo.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_camera_demo.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_line_chart.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_line_chart.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_xlistview_footer.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\view_xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_pull_refresh_header_vertical.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\view_pull_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_listview_item.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_image_listview_item.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pop_dialog.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_pop_dialog.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_tips_up_right.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\chat_tips_up_right.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_progress_dialog.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\view_progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gen_qr_image.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_gen_qr_image.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_db_fav_list_item.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_db_fav_list_item.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zxing_scanner.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_zxing_scanner.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_xlistview_header.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\view_xlistview_header.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_list_item.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_main_list_item.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_db_fav_list.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_db_fav_list.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hvscorll_listview_item.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_hvscorll_listview_item.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_pull_to_refresh_header.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\view_pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_drawerlayout.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_drawerlayout.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_tips_up_left.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\chat_tips_up_left.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_soap_weather.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_soap_weather.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_datetime.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\view_datetime.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hvscorll_listview.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_hvscorll_listview.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_imageindicator.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\view_imageindicator.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_soap_provice_city.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_soap_provice_city.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_animation_in.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_animation_in.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_swipeback_root.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\view_swipeback_root.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_launcher.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_launcher.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_progressbar.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_progressbar.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feedback.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sms_operation.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_sms_operation.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_auto_gain_form.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_auto_gain_form.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_basic_test.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_basic_test.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pop_dialog_menu.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_pop_dialog_menu.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_phonevalidate_code.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_phonevalidate_code.xml"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_listview.xml",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\layout\\activity_image_listview.xml"
+    }
+]

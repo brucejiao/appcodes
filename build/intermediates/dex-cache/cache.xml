@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\sharesdk-qzone-2.3.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ff3fa81940b347b1892c9f6a66bb83a37ad84936">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\sharesdk-qzone-2.3.11_3adb4e8a08b9aaa62d765be05592d6bae05b2722\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_bafc08b88af2fe8abfdbce7ffc7feeff4fc1170d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\zxing-core-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="908e18674f895e3e1fa8f4a954b8c637a23d2801">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing-core-3.1.0_7f3154dba860fef9ffed5a08b8a91ee99727f540\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\smssdk-smssdk-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="995fd616088abd69edc9606409f956094d8d4cbc">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\smssdk-smssdk-1.0.2_bd964aa6f1858907900b9b43c183f3e192381fdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\android_volley_manager_1.04.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f1230c70d2720d2d7aef68c93e26300e2df3691d">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\android_volley_manager_1.04_a8e2f4cd636bc2295313358d38ab973f51b42fbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\sharesdk-core-2.3.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b5ff9289c9f5ca118a3738dc395dd0e416b1ac48">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\sharesdk-core-2.3.11_999ecaaf987f5b1cfb52e316740dfb121c020f6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\smssdk-gui.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8bc3ca94f02861bf508de9a7d66b987d5ed01cb4">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\smssdk-gui_3446bfd529a3e86a6d31aab112e91e544e46229c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\javax.inject.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="084d20f92c8b789b7319721ec811cc232cb76606">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\javax.inject_bd3fd76c9534480886ec2734a2e51429cdb80c77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\zxing-android-core-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d3208d63e6d8607f3d81fbf4ff62577f5dde8589">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing-android-core-3.1.0_ca43e65705c07bbeef2c0bd40e61307aeae498d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\sharesdk-wechat-2.3.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d8f03327da20b63bb7f56b7b50d9df3bf6dab752">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\sharesdk-wechat-2.3.11_23d6e6830b9c33a5d8096e6bf2a699bde6ac27c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\ormlite-android-4.48.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\ormlite-android-4.48_7ed84d835d77b3d810f9cdc2b1eb84cf1d20d01b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\baidu-push-service-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eda17a867b9f90170a79013ce8b3bc969444e502">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidu-push-service-4.0.0_d0c75fd95230b487a5778cbee808ece10e8f805b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_143fa61d6f9a7b30fe944d8f0e770c6b5b32066f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\zxing-android-integration-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="52707c1c0801b4e1c0ca9bdbabd2dae20d8564d7">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing-android-integration-3.1.0_d3af979a3924c0fb19c669898163b9fc0a3dc820\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\universal-image-loader-1.8.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eee81e43531ce82db1781c5a8b27781ca384eede">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.8.4_21ab56e1a67b817a79cfb7455dfc71f3f23eee6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\ksoap2-android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aa6e8d9b65f13e7aff4c0e45f67ca8686998b9e2">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-android_5c46f51b73008758ae00dca0e9485a27184bdf41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsr305-1.3.9_daece8a97c0e1734cc3ae00c355fea42d1563703\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a0cbfb41272792a5368cdf12b7744b46ce016948">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_998962ee182d6695e205908beaea08d818afb78d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\smssdk-mframework.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="25509058b34a5ee08dbf66e57078e3083735d200">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\smssdk-mframework_efe3ed9158a97adcf51df8156e01add197e373fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\xstream-1.4.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bce3282142b63068260f021fcbe48b72e8d71a1a">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\xstream-1.4.7_55aeddcc723efd428de8893aef6d23752be87149\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\sharesdk-facebook-2.3.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b4d2ab204af2c3209c49e065f666d3d38a2baa44">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\sharesdk-facebook-2.3.11_478a780e588784a31de427b32148752125d69dc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\guice-3.0-no_aop.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="28586dc97c525501329d9a242fc3402041e3572d">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\guice-3.0-no_aop_f515346318ad0f1c898b00aaa094726f40cb75c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\sharesdk-tencentweibo-2.3.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0ce02197b33146e6f8099fedc59b7ee3ca53c194">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\sharesdk-tencentweibo-2.3.11_b7d1452329bfdc0756e8010208cc2593eaa50842\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\asmack-jse-buddycloud-2010.12.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dcc95a6390689f2b03ca2f9b7df9f65ccfc24893">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\asmack-jse-buddycloud-2010.12.11_fb10b9beda9cf09f915d6ab0f8a5d89ad307ed95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\sharesdk-wechat-moments-2.3.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9bf525bb67378f760786641c03fd56829cb98150">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\sharesdk-wechat-moments-2.3.11_8e83c66171a2a465f62571dce0fb9339ab262b2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\sharesdk-wechat-core-2.3.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="12de7823f94fe1fb5b85a033406f707e99b7ce6a">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\sharesdk-wechat-core-2.3.11_fbb02be99305df3b51a3f339e00fe6cc8be162fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\ormlite-core-4.48.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\ormlite-core-4.48_7d0e9e154973c14ba0f4780e758a09c1a6087885\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\sharesdk-qq-2.3.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="441c73b428111fbed77920d35de0b0ee13ac6409">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\sharesdk-qq-2.3.11_0c534db531ca811bfb3bad80d287d3aa94c6978e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\roboguice-2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="727ccb8f376109d0b5c44abca6f791dccc5c5dbc">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\roboguice-2.0_bed97d6e7088990e31e85f85215d415f6bf036b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_857e1d2abd25b32b168328d2eba0707763900a4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\smssdk-analysis-sdk_0.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcbe3a962f6385d900d9b027e5b57877e60c3505">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\smssdk-analysis-sdk_0.0.3_ff2a9c554f36d7d630c41a00820f13c16a845e64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\sharesdk-wechat-favorite-2.3.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8404b2312f542f58600cd3f56730a4444dbe43fd">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\sharesdk-wechat-favorite-2.3.11_1bf10f37964d7caddd075e633a6efca1507ea912\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\sharesdk-twitter-2.3.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="77cd437df93c142378b12120f2a2b831dee84d00">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\sharesdk-twitter-2.3.11_e4db0f661fec76c3bdcbe371970fc93ddb6f7f2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\achartengine-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.1.0_04c26fb63ad153b131ec40a58ace4f0fe6f4c963\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\sharesdk-sinaweibo-2.3.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="19b806c0c42f7f60bc46f88b0e76d2936dafa3a9">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\sharesdk-sinaweibo-2.3.11_3333eeb70bbe872993f8714146132e226b89fe0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\android-sliding-menu.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="42c243486cf4bb80d1ef424ab4f31b0103688979">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-sliding-menu_9821948fefd4ad7bdd38f99bb7e41053d994863b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\badidu-loc-sdk_4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="41b93335a2753c93f8b8f56741615cb81ea72437">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\badidu-loc-sdk_4.2_f65306e73d195b7a7247e43711fd356ce37f8c6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\baidu-map-api_v3_0_0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b39155228374e50c537705e9bfc10d3f69c2397a">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidu-map-api_v3_0_0_12d20153891e7bcb6a003d67449d49a0dd3cbdce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\android-validation-komensky0.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9cc0c3f808c6d72370b1abf2b28c120599388994">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-validation-komensky0.9.3_8db19d71b579d42709b0fe61aea02c1eab4c3683\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDSTUDIO\appcodes\app\libs\android-async-http-1.4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="E:\ANDROIDSTUDIO\appcodes\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.5_c8d3c6a25c56e20d03132503f6cfd70a2e641a90\classes.dex" />
+    </item>
+
+</items>

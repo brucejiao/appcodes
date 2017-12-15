@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="smssdk-gui">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/smssdk-gui.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

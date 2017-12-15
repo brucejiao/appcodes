@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guide03.jpg",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\guide03.jpg"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guide01.jpg",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\guide01.jpg"
+    },
+    {
+        "merged": "E:\\ANDROIDSTUDIO\\appcodes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guide02.jpg",
+        "source": "E:\\ANDROIDSTUDIO\\appcodes\\app\\src\\main\\res\\drawable-hdpi\\guide02.jpg"
+    }
+]
